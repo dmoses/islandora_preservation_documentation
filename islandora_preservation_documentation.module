@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Islandora Preservation Documentation feature.
+ */
+
+include_once 'islandora_preservation_documentation.features.inc';
